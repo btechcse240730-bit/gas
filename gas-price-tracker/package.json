@@ -1,0 +1,18 @@
+{
+  "name": "gas-price-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "ethers": "^5.6.8",
+    "lightweight-charts": "^3.8.0",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "zustand": "^3.7.1"
+  }
+}
